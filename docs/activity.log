@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-08-23T17:22:49Z
-Entry: test: add unit test coverage for request authentication
-Sequence: 86/94
+Last updated: 2026-08-24T17:26:34Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 87/94
